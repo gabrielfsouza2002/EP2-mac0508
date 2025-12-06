@@ -42,9 +42,11 @@ data/val.csv
 data/test.csv
 
 # Results (too large for git)
-results/
-*.json
-*.csv
+results/outputs_zero_shot/
+results/outputs_few_shot/
+results/*.json
+results/*.csv
+results/*.png
 
 # Temporary files
 tmp/

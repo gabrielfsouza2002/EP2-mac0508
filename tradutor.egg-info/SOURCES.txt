@@ -1,6 +1,0 @@
-pyproject.toml
-tradutor.egg-info/PKG-INFO
-tradutor.egg-info/SOURCES.txt
-tradutor.egg-info/dependency_links.txt
-tradutor.egg-info/requires.txt
-tradutor.egg-info/top_level.txt
